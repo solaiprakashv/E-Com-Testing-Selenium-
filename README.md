@@ -284,11 +284,6 @@ HTML report generated at: reports/test_report.html
 ✅ **POM Design Pattern** - Industry-standard design pattern  
 ✅ **Comprehensive Coverage** - 18+ test cases covering critical flows  
 
-## 👨‍💻 Author
-[Your Name]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
 
 ## 📄 License
 This project is open source and available for educational purposes.
