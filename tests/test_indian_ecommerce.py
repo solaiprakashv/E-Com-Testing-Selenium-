@@ -11,8 +11,8 @@ from pages.indian_cart_page import IndianCartPage
 
 # Test data for Indian demo
 INDIAN_DEMO_URL = "file:///" + os.path.abspath("demo_site/indian_ecommerce.html").replace("\\", "/")
-VALID_USERNAME = "test_user"
-VALID_PASSWORD = "test123"
+VALID_USERNAME = "***"
+VALID_PASSWORD = "****"
 
 
 @pytest.fixture
